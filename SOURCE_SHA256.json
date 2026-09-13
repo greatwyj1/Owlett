@@ -1,0 +1,1082 @@
+[
+  {
+    "path": ".gitignore",
+    "sha256": "1a7c434d61054fbebd2e6d87b864f2a7a768af9e8223e8c01245ff033aad1331"
+  },
+  {
+    "path": "AGENTS.md",
+    "sha256": "9cc66de7d77aa89b194f8bf2672026104a1716bcf55cc2bd43648c0ad2b5914d"
+  },
+  {
+    "path": "CHANGELOG.en.md",
+    "sha256": "fa666ed7536e7e7d9f08efe9976ad462038c70bb930a5d43c0ab3dfddde24f55"
+  },
+  {
+    "path": "CHANGELOG.md",
+    "sha256": "2f8a173b8aaffbfd0e5874971b85540a4cbe3c2653d226a4c9c95d92575297df"
+  },
+  {
+    "path": "CONTRIBUTING.en.md",
+    "sha256": "446f60d77ce580f51af408476f4a79d911096ec6961c3f56efaeb949ce2a555b"
+  },
+  {
+    "path": "CONTRIBUTING.md",
+    "sha256": "6e869aaddcf5d698ee84c47d9e9b10f55a0e3ff788b3670aa71cc54bc78859a8"
+  },
+  {
+    "path": "LICENSE",
+    "sha256": "c0ea4a896d2c8c394b29f9427589996db826cd501c512279ff0ed3ef48fabbe5"
+  },
+  {
+    "path": "NOTICE",
+    "sha256": "009f493e2b7e4445adbbee5d66f00fe2061b3c14a13c4cd2e968fadaec64a250"
+  },
+  {
+    "path": "PRIVACY.en.md",
+    "sha256": "04037794b173c765c1720c16a660e081de41822f5efd2c3017523405fd241fc2"
+  },
+  {
+    "path": "PRIVACY.md",
+    "sha256": "7d5a4a348db184b1e8d074e10442f8ea038336ca3b2e37eb0afac75e0af8fdd9"
+  },
+  {
+    "path": "PROJECT_STATUS.en.md",
+    "sha256": "db31528bf46b6ebc7af0d669d1800b549bc39a43b9585c523d82f46bfe2284aa"
+  },
+  {
+    "path": "PROJECT_STATUS.md",
+    "sha256": "c3e8bdea064f3c7c30e5361f067c847ad7994c62d486bab1b8d17e110d144e92"
+  },
+  {
+    "path": "README.en.md",
+    "sha256": "16c37ea2d1e70e610c0e19958c43f62c951c75cc9db9f106d8611c46b80d92df"
+  },
+  {
+    "path": "README.md",
+    "sha256": "bebe29c4c4cfdf91b2a5ac77dae52556fe32894c2bd344a6c1c3d0fcd3cd3486"
+  },
+  {
+    "path": "SECURITY.en.md",
+    "sha256": "0af41ba283f7282a33cc88bca046461f09c4d75068d396b56f1884fb41d87a14"
+  },
+  {
+    "path": "SECURITY.md",
+    "sha256": "d9420de5edf8bac469e11c4121ecddcf90f8e9c21dbf469903c9907b442eac1b"
+  },
+  {
+    "path": "THIRD_PARTY_NOTICES.en.md",
+    "sha256": "a8572d398501c9a45825c3b9d08e03793cbb980239cfa1711ee950100917f934"
+  },
+  {
+    "path": "THIRD_PARTY_NOTICES.md",
+    "sha256": "e778659bcc07da983158623c7cdb7a8d6543644c08902d33c1ebe8b72e1cd51f"
+  },
+  {
+    "path": "USER_GUIDE.en.md",
+    "sha256": "1b61f1cb23d861fef26c801d84ca74d780d71673f3e8582c6cd32da14ed2a326"
+  },
+  {
+    "path": "USER_GUIDE.md",
+    "sha256": "e819e6b0d1b255501057a5390da073438adbf1ddbd54ee416a0d0a4cd5e08704"
+  },
+  {
+    "path": "app/build.gradle.kts",
+    "sha256": "d9db509c4f69dbc27705dd96041655c3a4b007fa4782dae1532850914d9b2c70"
+  },
+  {
+    "path": "app/src/androidTest/java/com/example/birdingsoundmvp/owlett/BirdCallAudioCacheInstrumentedTest.kt",
+    "sha256": "3efb56cb28f80bd7ec3607df91b7e990d68344368ae91b9f38387ed83da84198"
+  },
+  {
+    "path": "app/src/androidTest/java/com/example/birdingsoundmvp/owlett/OwlettPersistenceInstrumentedTest.kt",
+    "sha256": "952e522f6078fa1315a9780225cbecad0e97fdff235ca143e4fa6c24e6a64472"
+  },
+  {
+    "path": "app/src/androidTest/java/com/example/birdingsoundmvp/owlett/OwlettPlanSkillsInstrumentedTest.kt",
+    "sha256": "646c8e04d67484144cd184e706470d775e56b7c916c0cb098c8136a1e104c5ec"
+  },
+  {
+    "path": "app/src/androidTest/java/com/example/birdingsoundmvp/planning/BirdingDatabaseMigrationTest.kt",
+    "sha256": "6ada3f0e0c18665fa0dbed8a6c7cfd752a39d0fa451d5b248e86104f7e1cd999"
+  },
+  {
+    "path": "app/src/androidTest/java/com/example/birdingsoundmvp/transfer/LocalDataTransferInstrumentedTest.kt",
+    "sha256": "ba265175dfb648c59e382c81869c4ac3fef682e6a02eeea68a7f152d5f281559"
+  },
+  {
+    "path": "app/src/androidTest/java/com/example/birdingsoundmvp/ui/AppearanceAndShareInstrumentedTest.kt",
+    "sha256": "4629ca1087bc9ce8e8a29d840d9f19eac8face053e7e5fdef0efe82c64ff4ee3"
+  },
+  {
+    "path": "app/src/androidTest/java/com/example/birdingsoundmvp/ui/BirdCallLoadingInstrumentedTest.kt",
+    "sha256": "4c70e4c4cbc7240f501bf9a14498536af2bbbfac3a6117930dcc584f994dbcea"
+  },
+  {
+    "path": "app/src/androidTest/java/com/example/birdingsoundmvp/ui/OwlettComposerInstrumentedTest.kt",
+    "sha256": "27c33c77090a9a070018845b7dbe6c79151c4b0b55024789b732e94ac99f61a7"
+  },
+  {
+    "path": "app/src/main/AndroidManifest.xml",
+    "sha256": "f991f94203dde146c983a2fd884651eced14f25122f2d150a0fcc48039994dcd"
+  },
+  {
+    "path": "app/src/main/java/com/example/birdingsoundmvp/MainActivity.kt",
+    "sha256": "be1f95ba908cd169bc69e76f83ee17b7439ee059928d6c7b507f02e4ca4c10fc"
+  },
+  {
+    "path": "app/src/main/java/com/example/birdingsoundmvp/OwlettApplication.kt",
+    "sha256": "c1dcd7302bd5b6796d2db8a42c515c0bc5788998afc7720f8c0b9ae056569a68"
+  },
+  {
+    "path": "app/src/main/java/com/example/birdingsoundmvp/audio/AudioCaptureManager.kt",
+    "sha256": "4cbdc5336b26ae4d81028e21ce0c352c42859decfab84e0e418aea38742de012"
+  },
+  {
+    "path": "app/src/main/java/com/example/birdingsoundmvp/audio/AudioChunker.kt",
+    "sha256": "a72b3480de02c27c6e1ca8110c308f22c2513736ebe4cf5c148409510d9d64ea"
+  },
+  {
+    "path": "app/src/main/java/com/example/birdingsoundmvp/audio/PlaybackCoordinator.kt",
+    "sha256": "acd011f0b692de9922f9c624b98316dae3aec4961621b2919de92e727a9929ec"
+  },
+  {
+    "path": "app/src/main/java/com/example/birdingsoundmvp/audio/SpectrogramBuffer.kt",
+    "sha256": "8ee62cb2920d6e24e93b653b328b98e7d766e95ac9ebf9706f8caa05832d5369"
+  },
+  {
+    "path": "app/src/main/java/com/example/birdingsoundmvp/audio/SpectrogramComputer.kt",
+    "sha256": "b7465b881e77e1f5378b79ffb252443120aceba05c52c94a070d1a2dfa3c13d7"
+  },
+  {
+    "path": "app/src/main/java/com/example/birdingsoundmvp/audio/SpectrogramPalette.kt",
+    "sha256": "bd2443be1d68473a0a265674a0d8e578db9771f67faea45f5faeb861464318ea"
+  },
+  {
+    "path": "app/src/main/java/com/example/birdingsoundmvp/audio/WavFileWriter.kt",
+    "sha256": "9539a2659ca452912baab18235d8c047ef0b7b50f4c25b393b7420d18c2623b6"
+  },
+  {
+    "path": "app/src/main/java/com/example/birdingsoundmvp/birdnet/BirdNetClassifier.kt",
+    "sha256": "0757d91706616b9d976b7275243943d9f0fbbae9fd637521734f1e09f951c6d8"
+  },
+  {
+    "path": "app/src/main/java/com/example/birdingsoundmvp/birdnet/BirdNetMetaModel.kt",
+    "sha256": "24bf19ea23cc3af7efc795a407d94fccf1a93bd44b0482b52549ad939a815a9f"
+  },
+  {
+    "path": "app/src/main/java/com/example/birdingsoundmvp/birdnet/BirdNetPreprocessor.kt",
+    "sha256": "26e0c32847395818f997040e0925ad1beb31a34e65b8da36a44e279f753b4ebb"
+  },
+  {
+    "path": "app/src/main/java/com/example/birdingsoundmvp/birdnet/DetectionResult.kt",
+    "sha256": "b346d8e81c3e4665dd349bae309caf299b2b1ee21f81d643e4f999dcb55b9652"
+  },
+  {
+    "path": "app/src/main/java/com/example/birdingsoundmvp/birdnet/MetaModelInput.kt",
+    "sha256": "a4fba18b250a53e6432bda8e7bfd2a937f1c29e6a59fe1267876dbcaf4bb54ae"
+  },
+  {
+    "path": "app/src/main/java/com/example/birdingsoundmvp/birdnet/SpeciesRangeResult.kt",
+    "sha256": "2c3b509cb95af70cfd8262f2fb824d18be4c587290dbd92bb9534e9b3ca5277b"
+  },
+  {
+    "path": "app/src/main/java/com/example/birdingsoundmvp/birdnet/ZhengBirdNameResolver.kt",
+    "sha256": "d5075d42d41956dac5f3a8912050d7d868efa061adf7c95a74afa7e6b6d67617"
+  },
+  {
+    "path": "app/src/main/java/com/example/birdingsoundmvp/i18n/AppText.kt",
+    "sha256": "f4378dc8352f5eb5c02aff64ecf28b4157374677f3d95fd32f8b4c0e9cebe5b6"
+  },
+  {
+    "path": "app/src/main/java/com/example/birdingsoundmvp/location/BirdNetWeekCalculator.kt",
+    "sha256": "78fea1dcdac694d5c2744f44fbb539148c1346c9f72eb7d63c9db34aa3bc4b23"
+  },
+  {
+    "path": "app/src/main/java/com/example/birdingsoundmvp/location/LocationProvider.kt",
+    "sha256": "b29ad5545fa9a0b2b577295fbcefc018d596a513a8e852f9bbe4b2128146e3a6"
+  },
+  {
+    "path": "app/src/main/java/com/example/birdingsoundmvp/notify/AlertPolicy.kt",
+    "sha256": "eb874ebf04759efed9363c22a991e73aee741fc4eb02226c5bb150a67a31a06b"
+  },
+  {
+    "path": "app/src/main/java/com/example/birdingsoundmvp/notify/AlertPolicyEngine.kt",
+    "sha256": "830c6677abeb86908726f220309f0075f9c5396293955bd01fc3cf180182f362"
+  },
+  {
+    "path": "app/src/main/java/com/example/birdingsoundmvp/notify/VibrationNotifier.kt",
+    "sha256": "11cdeed30619acd3ad7efce00982f1878ff55e1bf5e14b98ba4ad1bb84dbccbf"
+  },
+  {
+    "path": "app/src/main/java/com/example/birdingsoundmvp/owlett/BirdCallAudioCache.kt",
+    "sha256": "af4fd65095dcb1c24c859ab370373a3dd04aff0ca2e215bf77712ef7885481a7"
+  },
+  {
+    "path": "app/src/main/java/com/example/birdingsoundmvp/owlett/BirdCallLocationResolver.kt",
+    "sha256": "c8b9ad5de80591a43cb81bb2308274a95a7fb8122e56276156dce42818d96462"
+  },
+  {
+    "path": "app/src/main/java/com/example/birdingsoundmvp/owlett/BirdCallRegion.kt",
+    "sha256": "5d3962d2c1ffa87cf7670093f85899af39d658ca03e1ea179c5ca203d0e88de0"
+  },
+  {
+    "path": "app/src/main/java/com/example/birdingsoundmvp/owlett/DeepSeekCompatibility.kt",
+    "sha256": "b9648f0326a84aaad858bc180b326da7a8f2012e056cfa3235d9cf4ada74514f"
+  },
+  {
+    "path": "app/src/main/java/com/example/birdingsoundmvp/owlett/OwlettAgentRunner.kt",
+    "sha256": "02447ad8ff0598ed20aedb7ab8fae533dc2d53f0e4678923d7487fc5c8171549"
+  },
+  {
+    "path": "app/src/main/java/com/example/birdingsoundmvp/owlett/OwlettApiKeyStore.kt",
+    "sha256": "229ac81562c1086357be208d5d4aacedddeae43de7bedb19dc78ad1aa89d72df"
+  },
+  {
+    "path": "app/src/main/java/com/example/birdingsoundmvp/owlett/OwlettBusinessTools.kt",
+    "sha256": "5787323a41da671eb8a5af6f6d2d6e984929bb3bfd6267f9fac1ea4fde9941be"
+  },
+  {
+    "path": "app/src/main/java/com/example/birdingsoundmvp/owlett/OwlettChatDatabase.kt",
+    "sha256": "f3731ca5aff9e878e84f86d276c6a45d0cced37bbc3cf937881a28c1978cce57"
+  },
+  {
+    "path": "app/src/main/java/com/example/birdingsoundmvp/owlett/OwlettChatEngine.kt",
+    "sha256": "43f9dbfd9d3037edc0343c16a48c5c91e30625a8a350db94f4babcd493f3ed02"
+  },
+  {
+    "path": "app/src/main/java/com/example/birdingsoundmvp/owlett/OwlettContextBuilder.kt",
+    "sha256": "0eab98f989f77787ea65ffb9b08e829d4043336095136ab0c9acd842c4832c79"
+  },
+  {
+    "path": "app/src/main/java/com/example/birdingsoundmvp/owlett/OwlettErrorDisplay.kt",
+    "sha256": "e857d5715e1d722bbae39d8c234a8b5fba481bd60b899b5d4810914630be242e"
+  },
+  {
+    "path": "app/src/main/java/com/example/birdingsoundmvp/owlett/OwlettModels.kt",
+    "sha256": "22f3c967caa86be6ec86db0e26d5546eb1666a50cfb36f39f6fc600bd339ca36"
+  },
+  {
+    "path": "app/src/main/java/com/example/birdingsoundmvp/owlett/OwlettObservationCache.kt",
+    "sha256": "9962c433cb71a119387ed8c6f029202bdb75550950c2c1c9ab26904b2f7ff775"
+  },
+  {
+    "path": "app/src/main/java/com/example/birdingsoundmvp/owlett/OwlettPlanAttachmentBuilder.kt",
+    "sha256": "d4b14eab74f05f02a86dece5446baa32cba8c03e163381c2ab9ce6de67653e24"
+  },
+  {
+    "path": "app/src/main/java/com/example/birdingsoundmvp/owlett/OwlettRecordingPlayer.kt",
+    "sha256": "417d29101603f494a3fca0cf9f4629530e6c7ceba80b3960406a3c3480745749"
+  },
+  {
+    "path": "app/src/main/java/com/example/birdingsoundmvp/owlett/OwlettSceneSkills.kt",
+    "sha256": "8e25db9d2d295dea424157d0e442a46cd4b60fd84234a8086576519afdfc6b6c"
+  },
+  {
+    "path": "app/src/main/java/com/example/birdingsoundmvp/owlett/OwlettSettingsPolicy.kt",
+    "sha256": "df76f45db20789f71004a89698b7b233ef03c9d451b026e2b3119b359d9d2d98"
+  },
+  {
+    "path": "app/src/main/java/com/example/birdingsoundmvp/owlett/OwlettSkillPresentation.kt",
+    "sha256": "4533879dfdd61d10e61633522d20156c446664db94539bc9bb58716b10e3e2e6"
+  },
+  {
+    "path": "app/src/main/java/com/example/birdingsoundmvp/owlett/OwlettSkills.kt",
+    "sha256": "6dc75bd8d0a0086bceae186f456bef2041acf2dbd472717a87d69c777b9623de"
+  },
+  {
+    "path": "app/src/main/java/com/example/birdingsoundmvp/owlett/OwlettSlashCommands.kt",
+    "sha256": "5ca6133f480ea99f77cfc2a20630a0649e3cd0c645c7af8b864525dd94ae1977"
+  },
+  {
+    "path": "app/src/main/java/com/example/birdingsoundmvp/owlett/OwlettTitleGenerator.kt",
+    "sha256": "b88731d4e3837d62c8a3693a90f459aa65aba1ed039aea79280e2e91c8150285"
+  },
+  {
+    "path": "app/src/main/java/com/example/birdingsoundmvp/owlett/OwlettToolExecutor.kt",
+    "sha256": "944fe9379591c15b060205e654c88d36f6b2c57486bffe6ac068e7e29f054783"
+  },
+  {
+    "path": "app/src/main/java/com/example/birdingsoundmvp/owlett/OwlettTripClips.kt",
+    "sha256": "5cad4e6a7f4db04486a6f4417b4af8b1bedba35e55e41e3c972fa6df4f7be110"
+  },
+  {
+    "path": "app/src/main/java/com/example/birdingsoundmvp/owlett/OwlettTripSkills.kt",
+    "sha256": "48375802293c0ae817a9ae49b5a320851ba45648b15402714581ee5fefb6dba4"
+  },
+  {
+    "path": "app/src/main/java/com/example/birdingsoundmvp/owlett/OwlettTurnConfig.kt",
+    "sha256": "52ae0cd78449169be550812f2970e22b7f69a3fff6794bdb08319242dfaba2eb"
+  },
+  {
+    "path": "app/src/main/java/com/example/birdingsoundmvp/owlett/OwlettViewModel.kt",
+    "sha256": "152f7d6dd91eeac086f1343add1ca7dd363c7ed28ad7aa768f22207ec83af777"
+  },
+  {
+    "path": "app/src/main/java/com/example/birdingsoundmvp/owlett/XenoCantoApiKeyStore.kt",
+    "sha256": "c043a6f48d1de8fa822a423f8b58c5fbbb08a9229875b064a38589dcf1f54515"
+  },
+  {
+    "path": "app/src/main/java/com/example/birdingsoundmvp/owlett/XenoCantoClient.kt",
+    "sha256": "b7bb4747102047d6b8cc34dba3d97e7358b6f251a6db8c4726d317ebb89116e2"
+  },
+  {
+    "path": "app/src/main/java/com/example/birdingsoundmvp/planning/BirdObservationSource.kt",
+    "sha256": "990e51c74466ca6fbc93784623270c10c8ed1b570b7a393cf997dbc04ca39732"
+  },
+  {
+    "path": "app/src/main/java/com/example/birdingsoundmvp/planning/BirdingDatabaseHelper.kt",
+    "sha256": "1f662e03848491c7e0f317b746c39dcec580bf5d1795ddd78c1597e8e46bef77"
+  },
+  {
+    "path": "app/src/main/java/com/example/birdingsoundmvp/planning/EbirdHttpTransport.kt",
+    "sha256": "9c3927739d7910f3b3beb12812896b0f0022bf6e5380aca3cf20f9cf2d8363f9"
+  },
+  {
+    "path": "app/src/main/java/com/example/birdingsoundmvp/planning/EbirdRecentObservationsClient.kt",
+    "sha256": "891faefea1fc270e730f11ef956851b72c1b8be6bd89645e56864337cab7b790"
+  },
+  {
+    "path": "app/src/main/java/com/example/birdingsoundmvp/planning/EbirdRegionNames.kt",
+    "sha256": "d774a7ce2c61bb13f9583fd3d78f30bfe94854d9bdcfaa18becb40b1420366f0"
+  },
+  {
+    "path": "app/src/main/java/com/example/birdingsoundmvp/planning/PlanAnalysisCoordinator.kt",
+    "sha256": "9b23d9f83d9ce09c46fb655b5bae41d2d324fbfc807cb469e0cc6749607e2e53"
+  },
+  {
+    "path": "app/src/main/java/com/example/birdingsoundmvp/planning/PlanAnalysisLogic.kt",
+    "sha256": "e576ebe46e0cdc95bf9f561b935091db600a5fe30d834ecd17ccc564f02e5212"
+  },
+  {
+    "path": "app/src/main/java/com/example/birdingsoundmvp/planning/PlanAnalysisManager.kt",
+    "sha256": "28ca813bef196d36a788574124483a8d7ff20bc9fec1f2807746ced21c95561a"
+  },
+  {
+    "path": "app/src/main/java/com/example/birdingsoundmvp/planning/PlanSettlementEngine.kt",
+    "sha256": "867923f64019be7a86ac140bf7c792e952bc0056d26fb03e318b66033e58d577"
+  },
+  {
+    "path": "app/src/main/java/com/example/birdingsoundmvp/planning/PlanSpeciesBatchSelection.kt",
+    "sha256": "93b69d84b9cf68ee81f0264117694ea0ea79184846a9350a0b94285cf5288e28"
+  },
+  {
+    "path": "app/src/main/java/com/example/birdingsoundmvp/planning/PlansTripsModels.kt",
+    "sha256": "248d595331f5725fd6354755883b87a13132e6cac9e7d720a5cb5cdc5ebfd3d8"
+  },
+  {
+    "path": "app/src/main/java/com/example/birdingsoundmvp/planning/PlansTripsRepository.kt",
+    "sha256": "6bcda70c5c015b9f12ab38f3bd441cfeb2655b9d03b79ee3b9b126fd8bee4744"
+  },
+  {
+    "path": "app/src/main/java/com/example/birdingsoundmvp/planning/PlansTripsViewModel.kt",
+    "sha256": "26e54ff9be254ec6772611def00b7c0d5db28cc61376e7b8f7f62d4da101968b"
+  },
+  {
+    "path": "app/src/main/java/com/example/birdingsoundmvp/precise/BandpassWavClipExporter.kt",
+    "sha256": "9123b12acb6028db9eff1c762cceaf72acaeab0cb961011337d55aabf7dcec7e"
+  },
+  {
+    "path": "app/src/main/java/com/example/birdingsoundmvp/precise/PreciseRecognitionClient.kt",
+    "sha256": "81f3ec0c1e3342064fa94fd62d3e654821305700e60c1d2e0865598747ef8f4f"
+  },
+  {
+    "path": "app/src/main/java/com/example/birdingsoundmvp/precise/WavClipExporter.kt",
+    "sha256": "27b4a66857835056189d9ddf1fe6e038dff615fe36d887779307e94dea7b42eb"
+  },
+  {
+    "path": "app/src/main/java/com/example/birdingsoundmvp/service/RecordingRecognitionService.kt",
+    "sha256": "a54cc45d22edf757a7475f964c6901d1acb39de3bea4521a35d174cbe71719fc"
+  },
+  {
+    "path": "app/src/main/java/com/example/birdingsoundmvp/service/RecordingServiceState.kt",
+    "sha256": "dec658b4a6d542ea2b6d3e2a04bdc104b81bfaa3dd2c4e6ffb8a36361992eb34"
+  },
+  {
+    "path": "app/src/main/java/com/example/birdingsoundmvp/settings/AppSettings.kt",
+    "sha256": "1aa87b0489993c2f7ff4175d8fb8cbf8365533d4b2f756d571480c96e216d08e"
+  },
+  {
+    "path": "app/src/main/java/com/example/birdingsoundmvp/settings/ColorTheme.kt",
+    "sha256": "0a87809ec16e210417aa6641894788562a467856becb5fe0166f12fa263e486d"
+  },
+  {
+    "path": "app/src/main/java/com/example/birdingsoundmvp/settings/SettingsRepository.kt",
+    "sha256": "4dd0a5b1c2f15f4dbce9a7fe65427f5849a2e459e16e018ce3f6aa8df58ef69f"
+  },
+  {
+    "path": "app/src/main/java/com/example/birdingsoundmvp/share/ShareClipExporter.kt",
+    "sha256": "cd4a8003545893c6c931119f4fd4c1daeb370e042f46dfb3e95da912af32a5b9"
+  },
+  {
+    "path": "app/src/main/java/com/example/birdingsoundmvp/share/ShareContentPlanner.kt",
+    "sha256": "d87cf2ab387a427960ba520fd432634d4fb7d085cb7d4f2df0c9c6b3b9e2d7f4"
+  },
+  {
+    "path": "app/src/main/java/com/example/birdingsoundmvp/share/ShareFrameRenderer.kt",
+    "sha256": "8edea1f0e59aed7d6b64321144b42d31a78612660b79140015f231d824ab6f85"
+  },
+  {
+    "path": "app/src/main/java/com/example/birdingsoundmvp/share/ShareSelectionPolicy.kt",
+    "sha256": "46a86118f1e8d975e2e159d164f3a4e035ad09ba2e1d247bf067cf7e1b817565"
+  },
+  {
+    "path": "app/src/main/java/com/example/birdingsoundmvp/share/ShareVideoFramePlanner.kt",
+    "sha256": "c9b9925d90a494b544ca71783c370b3b8f9fc2a9362574a1daafa913e8152053"
+  },
+  {
+    "path": "app/src/main/java/com/example/birdingsoundmvp/share/ShareVideoRenderer.kt",
+    "sha256": "a7e1100ddcc52715e74e947f3210a8d68ecc701293167eb0fecebb231bd940e1"
+  },
+  {
+    "path": "app/src/main/java/com/example/birdingsoundmvp/taxonomy/BirdSpeciesDetail.kt",
+    "sha256": "e66a7b504f1ef392030cc619b239a56ce20c3dde6022ea57b5b47ab25d6cc8ca"
+  },
+  {
+    "path": "app/src/main/java/com/example/birdingsoundmvp/taxonomy/BirdTaxonomyRepository.kt",
+    "sha256": "26dbd5a738370b254a2875fd878d72bea09f80e85af4cc8c80c4c2eb44ef13a3"
+  },
+  {
+    "path": "app/src/main/java/com/example/birdingsoundmvp/transfer/LocalDataTransfer.kt",
+    "sha256": "f9dea82d023d2bccda57222fb0f9dee5ebb6669db1c6d3147ae95d1b9f24a1a9"
+  },
+  {
+    "path": "app/src/main/java/com/example/birdingsoundmvp/trip/DetectionLogger.kt",
+    "sha256": "2e5bf527ae1ce7da0038cf08974e439906eb146b707b3a0ee17fe8a835c00de3"
+  },
+  {
+    "path": "app/src/main/java/com/example/birdingsoundmvp/trip/TripHistory.kt",
+    "sha256": "831304df070adbae94c743a606c4dd7d7e45ab2394324870d893e7579dd6ae29"
+  },
+  {
+    "path": "app/src/main/java/com/example/birdingsoundmvp/trip/TripSession.kt",
+    "sha256": "051b61b598f9525551f3c82027e76e4fc509a05ef87b74a2ccdea0bb30b938f6"
+  },
+  {
+    "path": "app/src/main/java/com/example/birdingsoundmvp/ui/BirdThumbnail.kt",
+    "sha256": "af7cae483db79647f3f001d37a3470ec163bd82a63238bb9d6348ca42905df63"
+  },
+  {
+    "path": "app/src/main/java/com/example/birdingsoundmvp/ui/DataTransferSettings.kt",
+    "sha256": "01e6c54c0fadb24972272ceae93499fb178e13f2e79d901fa28bfb73d5e90cc0"
+  },
+  {
+    "path": "app/src/main/java/com/example/birdingsoundmvp/ui/LicenseSettings.kt",
+    "sha256": "a28b525e844195c8809731e362730e58ff9aef3b4593b46836ebfd4b6cba00ec"
+  },
+  {
+    "path": "app/src/main/java/com/example/birdingsoundmvp/ui/MainScreen.kt",
+    "sha256": "35adb3e228a1ef5f69bb1de526891ce1dbe9d8137797cefb6f2753dd416f9508"
+  },
+  {
+    "path": "app/src/main/java/com/example/birdingsoundmvp/ui/OwlettAppSettingsScreen.kt",
+    "sha256": "1169e6beb8141722637f4fa7fef6f2c9ba28d7d486474ec3892d749c8b5c397f"
+  },
+  {
+    "path": "app/src/main/java/com/example/birdingsoundmvp/ui/OwlettBehaviorSettings.kt",
+    "sha256": "311901aceb011ef9d74e81aa75583e04bd3c5bf8abfe92740b6af043c1655899"
+  },
+  {
+    "path": "app/src/main/java/com/example/birdingsoundmvp/ui/OwlettBottomNavigation.kt",
+    "sha256": "ca17b98554cc8a4d3b13dced3b62c30e6285de86760b796d2a97fcfffe6078a3"
+  },
+  {
+    "path": "app/src/main/java/com/example/birdingsoundmvp/ui/OwlettButtons.kt",
+    "sha256": "8061bb02b8f70036958b8a6c2595da7c9b81fad3103ba7c4f42b487b0f646733"
+  },
+  {
+    "path": "app/src/main/java/com/example/birdingsoundmvp/ui/OwlettHelp.kt",
+    "sha256": "e0840df3db98b88c05ca5578dbf760798e4af04cc621049cda7480770ba046e5"
+  },
+  {
+    "path": "app/src/main/java/com/example/birdingsoundmvp/ui/OwlettScreen.kt",
+    "sha256": "d358339a0c4d0c79273a57d354f744711ff55e991571b3b2fb0566dc1f66a99a"
+  },
+  {
+    "path": "app/src/main/java/com/example/birdingsoundmvp/ui/OwlettTheme.kt",
+    "sha256": "c331ecada7330cdaf70c96dcd4f8970dd46e93d98f9ee6e50c23967e8d1a6877"
+  },
+  {
+    "path": "app/src/main/java/com/example/birdingsoundmvp/ui/OwlettTripUi.kt",
+    "sha256": "224c9655e8ffa9ac246ada91fd49867db8ac135aa64899ecbf4c157c354f0c51"
+  },
+  {
+    "path": "app/src/main/java/com/example/birdingsoundmvp/ui/PlanDetailActions.kt",
+    "sha256": "93f87c8b5def1f8505b500aee02e7b1d1f6d5e7e47df7c80b12460c9e4619ebe"
+  },
+  {
+    "path": "app/src/main/java/com/example/birdingsoundmvp/ui/PlansTripsScreen.kt",
+    "sha256": "30599eb2ce951e2848c80135b766a8445b010e1dae48cd34a03a67f46ff4faad"
+  },
+  {
+    "path": "app/src/main/java/com/example/birdingsoundmvp/ui/SpectrogramSelectionGeometry.kt",
+    "sha256": "580c7bfdfdfe81395206d13c5c9e63a5c5a9b8860fb2514cd86cc8fee0ff14b2"
+  },
+  {
+    "path": "app/src/main/java/com/example/birdingsoundmvp/ui/SpectrogramView.kt",
+    "sha256": "659bd122db7b8fe2ad81eabe9fc4748f4e0c982915deeefe4317e773e9338d5d"
+  },
+  {
+    "path": "app/src/main/res/drawable/ic_owlett_outline.xml",
+    "sha256": "0c34ff68a9f0bd485e3511865ab2ede469472a5cc93f2cd60d89bb82190d8cb6"
+  },
+  {
+    "path": "app/src/main/res/drawable/ic_stat_birding.xml",
+    "sha256": "832cd21c359e99ebfa14f820c39ec2f0f37d4c7cde3cda16d4d7ae5b682788cc"
+  },
+  {
+    "path": "app/src/main/res/drawable/owlett_icon.png",
+    "sha256": "b4d592827be7cae6ae3876c01f9219d8bf50ffc0b81e52a762d8caaa5ec7a787"
+  },
+  {
+    "path": "app/src/main/res/values/strings.xml",
+    "sha256": "ea00491066d9fc3e07f4d9739023997ea577e2268e44c3e4e29b50f8dd5ed2fe"
+  },
+  {
+    "path": "app/src/main/res/values/styles.xml",
+    "sha256": "ff396da1ad1d0cbeaf4626c57f95fde9fcf18623795a9be388ba3c155eaef64c"
+  },
+  {
+    "path": "app/src/main/res/xml/backup_rules.xml",
+    "sha256": "eda9dddce1e895de1efd716fe75e244187bf8f91a3bb7444c6ea1731e51c74a8"
+  },
+  {
+    "path": "app/src/main/res/xml/file_paths.xml",
+    "sha256": "535ffc0e83a32f2a21039eb091f5b9beaf4e69d98dec354665ebd5830642e501"
+  },
+  {
+    "path": "app/src/main/res/xml/full_backup_content.xml",
+    "sha256": "2c5c697984f4c52b526337ab61113f5843e0bfc6af4722374916ffe6da38dd9a"
+  },
+  {
+    "path": "app/src/main/resources/owlett/skills/app_settings.md",
+    "sha256": "38bbddc5487f2071486dc7b03ba6840635fdfbac87a2a578e92242b25b93f5dc"
+  },
+  {
+    "path": "app/src/main/resources/owlett/skills/collect_clips.md",
+    "sha256": "f33db005b92e3c058cf3351e2010484d1e74cf984a5a17fb0434e71a9cd035f5"
+  },
+  {
+    "path": "app/src/main/resources/owlett/skills/create_plan.md",
+    "sha256": "6fda04781a4446fef891fdedfc04651adf8d5974c575ea9327e679d1a5e15848"
+  },
+  {
+    "path": "app/src/main/resources/owlett/skills/find_bird_calls.md",
+    "sha256": "3d97eecc8e5a9eef9a4267ab4211f546267e57ed83cba2aa7f00a7f68ea6a43a"
+  },
+  {
+    "path": "app/src/main/resources/owlett/skills/link_trip.md",
+    "sha256": "61b26d98d92c1cd824c57f65ca0de205d3b95dd0ba3f1944ede13b9368c50aa3"
+  },
+  {
+    "path": "app/src/main/resources/owlett/skills/lookup_bird.md",
+    "sha256": "cdfeee8bc567e1cf637bd8c38245a6df52ad9cfc1cc4acf6e92a37e868c4fcaf"
+  },
+  {
+    "path": "app/src/main/resources/owlett/skills/organize_activity.md",
+    "sha256": "2a5899654d924df01c889205e946a55b8a045e0a544f038a99cca4813932cdfb"
+  },
+  {
+    "path": "app/src/main/resources/owlett/skills/settle_plan.md",
+    "sha256": "1a1a051cecbf0c7a5a3d4405d69c1d1779a0c7d903abf49f812c649d739f8833"
+  },
+  {
+    "path": "app/src/main/resources/owlett/skills/update_target_list.md",
+    "sha256": "1621f6f9b3f409568e81a5bde0cf16cc9fc872dafab6d817cb32ec1f3f9fb62b"
+  },
+  {
+    "path": "app/src/main/resources/owlett/zh-CN.json",
+    "sha256": "5400a12590f5d0ed945def7a86b6174d405bbbcc257affec0243a8ce922727b5"
+  },
+  {
+    "path": "app/src/test/java/com/example/birdingsoundmvp/audio/PlaybackCoordinatorTest.kt",
+    "sha256": "3d0c0b767ec1d3e9262c63bc8f515775a7404ef04321f9e2b84a9f877fb68ca3"
+  },
+  {
+    "path": "app/src/test/java/com/example/birdingsoundmvp/i18n/AppTextTest.kt",
+    "sha256": "9f959fe48eed76f78de89c94af6cf3ab9c5ca10e50f186b084abb725d33c0059"
+  },
+  {
+    "path": "app/src/test/java/com/example/birdingsoundmvp/owlett/BirdCallRegionsTest.kt",
+    "sha256": "0368c37ce6619553d0e669feac522d797936ec1e50503de033d8253f18b6788f"
+  },
+  {
+    "path": "app/src/test/java/com/example/birdingsoundmvp/owlett/DeepSeekChatEngineTest.kt",
+    "sha256": "6988506356f94cc9e959c34deee045af5a1286a08533ceb6762f43ac2ff9d2d8"
+  },
+  {
+    "path": "app/src/test/java/com/example/birdingsoundmvp/owlett/OwlettContextBuilderTest.kt",
+    "sha256": "7ad8ca2c85d4c338e5d6a5345848defc570142c14660f9d0f389cda5b21877b6"
+  },
+  {
+    "path": "app/src/test/java/com/example/birdingsoundmvp/owlett/OwlettObservationCacheTest.kt",
+    "sha256": "1ebefd8de4506115a7714c3447b1d289a667390d03cbaf199d93f9f410a95f4f"
+  },
+  {
+    "path": "app/src/test/java/com/example/birdingsoundmvp/owlett/OwlettPlanAttachmentLogicTest.kt",
+    "sha256": "55eb3df3b82d4e18b89dd8bd2fe8966dd998e62f9e4a7576059b7db74357c3b4"
+  },
+  {
+    "path": "app/src/test/java/com/example/birdingsoundmvp/owlett/OwlettReleaseLogicTest.kt",
+    "sha256": "f7d77a677c421f4e7de1f343aa86c7c82efa08dcedb054e44992b8f9626a1534"
+  },
+  {
+    "path": "app/src/test/java/com/example/birdingsoundmvp/owlett/OwlettSettingsConfirmationTest.kt",
+    "sha256": "cb2ea89af6ad8849c5a100779b9e088d4fc2c871d880dccecb5f45acdd739ce8"
+  },
+  {
+    "path": "app/src/test/java/com/example/birdingsoundmvp/owlett/OwlettSkillRegistryTest.kt",
+    "sha256": "2f5823832100a0e39f24581f947d20ee09510f615629ff76f9ec7ccf5a35f1de"
+  },
+  {
+    "path": "app/src/test/java/com/example/birdingsoundmvp/owlett/OwlettSlashCommandsTest.kt",
+    "sha256": "69ddd7e2c4b02ed300e77fe7bfa1c395d0ab5423b65091e26c9559cd0daedfa0"
+  },
+  {
+    "path": "app/src/test/java/com/example/birdingsoundmvp/owlett/OwlettTargetListPolicyTest.kt",
+    "sha256": "a28853737a958f0c1c7711aad19111d99442f7f5f4f762ccaafd8c115cedabd1"
+  },
+  {
+    "path": "app/src/test/java/com/example/birdingsoundmvp/owlett/OwlettTitleGeneratorTest.kt",
+    "sha256": "bfa36a091154aeefc82342b572c7fd9f18bec22fb152f00e3f7af7cb36988d0e"
+  },
+  {
+    "path": "app/src/test/java/com/example/birdingsoundmvp/owlett/OwlettToolRuntimeTest.kt",
+    "sha256": "a62c66a7b4cb5610088231c1b1256b2afa019658fc87c73b7fbed25db655da5f"
+  },
+  {
+    "path": "app/src/test/java/com/example/birdingsoundmvp/owlett/XenoCantoClientTest.kt",
+    "sha256": "a5b9b0566830e1bd3b3823aed75d5760e01fc7ead712c6be97f5b88778871c90"
+  },
+  {
+    "path": "app/src/test/java/com/example/birdingsoundmvp/planning/EbirdHttpTransportTest.kt",
+    "sha256": "e5778c91a75d86b919e3fd5d0e88d3c9181f2a93191964016711babd5d2c1e04"
+  },
+  {
+    "path": "app/src/test/java/com/example/birdingsoundmvp/planning/EbirdRecentObservationsClientTest.kt",
+    "sha256": "7a411cecda3e12f7932234cc513d6fe4b616cab1154e1af6900cd055a243dcba"
+  },
+  {
+    "path": "app/src/test/java/com/example/birdingsoundmvp/planning/PlanAnalysisCoordinatorTest.kt",
+    "sha256": "087f928ac93846dbdccacd98f0391e4396daab72dc504cd95aca9d98422d5ef5"
+  },
+  {
+    "path": "app/src/test/java/com/example/birdingsoundmvp/planning/PlanAnalysisLogicTest.kt",
+    "sha256": "b294cf89b4d85bc1975f12be072445088da04658cf467acd2eec140863485004"
+  },
+  {
+    "path": "app/src/test/java/com/example/birdingsoundmvp/planning/PlanSettlementEngineTest.kt",
+    "sha256": "8fb6eb34bb408116ec7218bf53eba5d9da7f8732dd0bdd2a23509d0f586d955f"
+  },
+  {
+    "path": "app/src/test/java/com/example/birdingsoundmvp/planning/PlanSpeciesBatchSelectionTest.kt",
+    "sha256": "b3eb5caa9a5b184cc6fc62276f8a5f166359dfd9a3abfae21f88d4b47204ca07"
+  },
+  {
+    "path": "app/src/test/java/com/example/birdingsoundmvp/precise/BandpassWavClipExporterTest.kt",
+    "sha256": "bacb4cb4d2483d63c3516d9b1d37ef609fe532164314bc869c2087ad598e0b0c"
+  },
+  {
+    "path": "app/src/test/java/com/example/birdingsoundmvp/share/ShareContentPlannerTest.kt",
+    "sha256": "a7a580b8c3032a490c2df4c6b1b936e672190bdfd5329f2785d19fa44cf3932f"
+  },
+  {
+    "path": "app/src/test/java/com/example/birdingsoundmvp/share/ShareVideoFramePlannerTest.kt",
+    "sha256": "cccb7614d02651ca4e928f7897b976b8ea732322929061fe26acafefecb54c1f"
+  },
+  {
+    "path": "app/src/test/java/com/example/birdingsoundmvp/ui/OwlettNavigationTest.kt",
+    "sha256": "28fc86def512ee721d5c31ccda164a64ea7baa2f75ac114fbd7c093d10350149"
+  },
+  {
+    "path": "app/src/test/java/com/example/birdingsoundmvp/ui/PlansTripsListBehaviorTest.kt",
+    "sha256": "78d228b7c9e8cc893a8e1dc6cd9f6ec62592dd28cabbb7c2257d7d4be17de938"
+  },
+  {
+    "path": "app/src/test/java/com/example/birdingsoundmvp/ui/SpectrogramSelectionGeometryTest.kt",
+    "sha256": "92493b3b82d5ef25ef8524aa4f0cc0178aecad8d6faf39c67adab278038a77f9"
+  },
+  {
+    "path": "app/src/test/java/com/example/birdingsoundmvp/ui/VisualPolicyTest.kt",
+    "sha256": "0514438f33ca2174fc271a374356e780b2740f9af5a2b1a5690046ff20a326de"
+  },
+  {
+    "path": "app/src/visualTest/java/com/example/birdingsoundmvp/ui/OwlettVisualTest.kt",
+    "sha256": "69406d8dab6c76620fca60b30e9402962cc713ab9802f31c55cc412e4db17318"
+  },
+  {
+    "path": "build.gradle.kts",
+    "sha256": "5e6586d234a8226b62574ccf19beedcb819dc2a3f496dbaecb875be0d2f0d135"
+  },
+  {
+    "path": "chatui/LICENSE",
+    "sha256": "006d0826dcf345182515cbe3e0b74daaa10a28e75234d7d9e8af58ad908e5262"
+  },
+  {
+    "path": "chatui/UPSTREAM.md",
+    "sha256": "6c80995263b2d351ec10b4008d5e9074e6cf54185c1fb75d91cff118f6b4f585"
+  },
+  {
+    "path": "chatui/build.gradle.kts",
+    "sha256": "c10964015548d73b6cdc5606e4af3362f20719aff487f962f0c34e92044ac460"
+  },
+  {
+    "path": "chatui/src/main/AndroidManifest.xml",
+    "sha256": "c8fe08b06e479efc7e3d00476fffe693a3e943e2b874b3c6a1ba5156fc180751"
+  },
+  {
+    "path": "chatui/src/main/java/com/pact/chatui/ChatColors.kt",
+    "sha256": "14a979c130a169683710dbd7a720fbe18f2fee3931434f2dec99989559014a45"
+  },
+  {
+    "path": "chatui/src/main/java/com/pact/chatui/ChatConfig.kt",
+    "sha256": "6ddb41bcbebced8c262a96535c315d72595a989459e481c83c79c054440224cf"
+  },
+  {
+    "path": "chatui/src/main/java/com/pact/chatui/ChatModels.kt",
+    "sha256": "facc1a301b079c33a237861f9433f16129377e47ee5b1a4ce1c6cec5e5dce2ab"
+  },
+  {
+    "path": "chatui/src/main/java/com/pact/chatui/ChatScreen.kt",
+    "sha256": "639986cf415af9695d570143a5dc763e36a7bcb8fce1f2635ba6fb31de5e4412"
+  },
+  {
+    "path": "chatui/src/main/java/com/pact/chatui/ChatScreenHelpers.kt",
+    "sha256": "ee75f90873867155f0ad4106fd56ea1e12fc3173e763e4802f5b5374b046d247"
+  },
+  {
+    "path": "chatui/src/main/java/com/pact/chatui/ChatService.kt",
+    "sha256": "6926e4490e06e64a7706e68692b7ab0a24abc23882acb0edd78e7008777d9d9e"
+  },
+  {
+    "path": "chatui/src/main/java/com/pact/chatui/DefaultChatViewModel.kt",
+    "sha256": "bea5264c970184bc485dbbda6c18906f366ac89ad013df35a5d124c97573befd"
+  },
+  {
+    "path": "chatui/src/main/res/values/strings.xml",
+    "sha256": "74a41b28fd115c0b0edc32f7ef4f2d44dc8010633e6c4a4c2059bac88f6b231b"
+  },
+  {
+    "path": "docs/INDEX.en.md",
+    "sha256": "fa1be6132c18fd99ddd8865794411744628216d3cb9d8547da3c68c533dcd996"
+  },
+  {
+    "path": "docs/INDEX.md",
+    "sha256": "b2c68eaae5722e975b649f641d54f81d947e4564499bb5b5046e98ef675b0745"
+  },
+  {
+    "path": "docs/OWLETT_TOOLS.en.md",
+    "sha256": "c82183b9c86c9376da4b02da84e83ca200fc3924acac5acf2d39a5c2b1e66e0b"
+  },
+  {
+    "path": "docs/OWLETT_TOOLS.md",
+    "sha256": "37e494e7eb2daa524bd47622fa2e24c827db0e8d12d023c7352d804f73cfe525"
+  },
+  {
+    "path": "docs/PUBLISHING.en.md",
+    "sha256": "59f25faae4942b5a54f742fbde1c27e96f8ba1ecfb3b4da6db128804da75c03e"
+  },
+  {
+    "path": "docs/PUBLISHING.md",
+    "sha256": "23d6141b1f504588fc13e497e1bd702fcc5a30e7b806a988d6c52d0cd6817d85"
+  },
+  {
+    "path": "docs/RELEASE_ASSETS.md",
+    "sha256": "e8c373d03903607bf9aef1cf6641b1f059d74426415de80e51877b0dcc015f85"
+  },
+  {
+    "path": "docs/RESOURCES.en.md",
+    "sha256": "3733fecce4f1973a434f79b1e591c0aa3efffe2f9ffb0617a81806831b884cbd"
+  },
+  {
+    "path": "docs/RESOURCES.md",
+    "sha256": "7857b46cce58eceb7763ae952d6ab9e4a85443ffeb585a211f3c533828a9bf7a"
+  },
+  {
+    "path": "docs/RUN_FROM_SOURCE.en.md",
+    "sha256": "2bc2b05a5292042c6c94e1bcaf98d8f252662f28a992f4ad295e9f9bdb7e6f6b"
+  },
+  {
+    "path": "docs/RUN_FROM_SOURCE.md",
+    "sha256": "fa9809031e24c9cd5aed8e4a90f8bcd0a233563eede48b18c9d1bed7411e5431"
+  },
+  {
+    "path": "docs/skills/app_settings.en.md",
+    "sha256": "2172b68e17ec807e8280c783d65383e42eb15cbcaf7929f25e1992f688a6d7c0"
+  },
+  {
+    "path": "docs/skills/app_settings.md",
+    "sha256": "e751c62938055719eb50c88127e82c543972d95164f2aba1b837e3e1abba55f2"
+  },
+  {
+    "path": "docs/skills/collect_clips.en.md",
+    "sha256": "d3a0a58eaa219206bf5ff6e3fd1851c59d0f3847816b1afc11058e33c77215a9"
+  },
+  {
+    "path": "docs/skills/collect_clips.md",
+    "sha256": "c7efd102f26d15419fe4aacc43bf668b596a7e3b39b668df2e79cc19159e3a89"
+  },
+  {
+    "path": "docs/skills/create_plan.en.md",
+    "sha256": "8387ebe016be516ae0b017cc127cdbf0bd2821ae77416291403d695ad53c9dce"
+  },
+  {
+    "path": "docs/skills/create_plan.md",
+    "sha256": "7e7cfad2246d8d952be3fd90d60cf8d9ec2fab9e8409915f63bc02283362a85c"
+  },
+  {
+    "path": "docs/skills/find_bird_calls.en.md",
+    "sha256": "4b77cfc3eac0ccf9a926f848c8c12357e59e2e91d574ad5f2812276abf3f59ef"
+  },
+  {
+    "path": "docs/skills/find_bird_calls.md",
+    "sha256": "1b881cdbbfcd030eca5fb8449eece0415e153032563e0b3a5eeb0e6f67dfcf4d"
+  },
+  {
+    "path": "docs/skills/link_trip.en.md",
+    "sha256": "5e92ba80c6774df2d20edc1406a24e12e4faa847ec6793358e95d3d082a85dc2"
+  },
+  {
+    "path": "docs/skills/link_trip.md",
+    "sha256": "4ee69b25e52aec123575c24794180118649c374212b3cbef4a5e57b1d9459648"
+  },
+  {
+    "path": "docs/skills/lookup_bird.en.md",
+    "sha256": "f2110e82d436cea35dfccc5c2503b24654fcf2db29b3752534b5f82ec567a4e2"
+  },
+  {
+    "path": "docs/skills/lookup_bird.md",
+    "sha256": "aae3ae9228f4d8c865b5cebb884f5c546d7a0090d7fde06470ecb0098b5ca67d"
+  },
+  {
+    "path": "docs/skills/organize_activity.en.md",
+    "sha256": "1af11a8fe3bc52df3627304581306da0f47f7ed6c60707a8c4875eef87725f83"
+  },
+  {
+    "path": "docs/skills/organize_activity.md",
+    "sha256": "a789b1b38031d87fd1473f2ffdd2b5a82a6e64458284aff2bc5c09ba5af11383"
+  },
+  {
+    "path": "docs/skills/settle_plan.en.md",
+    "sha256": "a18a0d8cdded55e09784c240c638dd18a70fc7a7080a768b681f52014052e142"
+  },
+  {
+    "path": "docs/skills/settle_plan.md",
+    "sha256": "b523c5e4e9d7c4542019ddd9d57b88d49a40c7cde37ce54d61b7aa979dc97a7f"
+  },
+  {
+    "path": "docs/skills/update_target_list.en.md",
+    "sha256": "98646a154143ec9b24e8665c85553c9fdb7da0a64a03d0cf1c904f5d68f68809"
+  },
+  {
+    "path": "docs/skills/update_target_list.md",
+    "sha256": "4a9e81558d8ccf41053cd01b8ace791e6b5f8afed1b77a4d66f29f8dc62da11d"
+  },
+  {
+    "path": "gradle/wrapper/gradle-wrapper.jar",
+    "sha256": "76805e32c009c0cf0dd5d206bddc9fb22ea42e84db904b764f3047de095493f3"
+  },
+  {
+    "path": "gradle/wrapper/gradle-wrapper.properties",
+    "sha256": "3e402c9f5eea1b468cf81ffe552757b0190d0a3ade2ee723e65b643109e9d987"
+  },
+  {
+    "path": "gradle.properties",
+    "sha256": "5e293da74a2f8bb01c8c66647aecd438a607a489b8380845efda9bf77a6ed178"
+  },
+  {
+    "path": "gradlew",
+    "sha256": "3238afb2aed5cb16eb7d6718077e7138059108f007b54179e9cc157c5a6e0e89"
+  },
+  {
+    "path": "gradlew.bat",
+    "sha256": "94102713eb8fb22d032397924c0f38ab2da783ba60d07054339f1190a0c4e2cd"
+  },
+  {
+    "path": "licenses/Apache-2.0.txt",
+    "sha256": "074e6e32c86a4c0ef8b3ed25b721ca23aca83df277cd88106ef7177c354615ff"
+  },
+  {
+    "path": "licenses/CC-BY-NC-SA-4.0.txt",
+    "sha256": "600ca4e25fe11762b75a97e714707fab48bb778374e92d24c6ca068791661c11"
+  },
+  {
+    "path": "licenses/CC0-1.0.txt",
+    "sha256": "a2010f343487d3f7618affe54f789f5487602331c0a8d03f49e9a7c547cf0499"
+  },
+  {
+    "path": "licenses/openai-kotlin-MIT.md",
+    "sha256": "2ef487d672cc64772e0a862c0c77d710563df3e6a3b76d3a426f185da280e2c5"
+  },
+  {
+    "path": "licenses/slf4j-MIT.txt",
+    "sha256": "8e0d2e086db1da82238c27929308de11db7453a29bc0da50331379105e5da8fd"
+  },
+  {
+    "path": "resources/backend-models.json",
+    "sha256": "57dce2ad24d7850e1c06cb584e64c200b94338dd2ae2e7db3a782030da855f18"
+  },
+  {
+    "path": "resources/manifest.json",
+    "sha256": "1192f8bd09ffb08853696e3af40f6bac80c5e28f3d1e78d4bbe54540ba4c7555"
+  },
+  {
+    "path": "server/precise_recognition/.env.example",
+    "sha256": "4a4184161c69e241422a01dac59dbb62fc6054ef53ddb7d8f07b601d1083c079"
+  },
+  {
+    "path": "server/precise_recognition/BUNDLE_README.en.md",
+    "sha256": "a5b42e7d61c2a3e1c49cfba6e471263298652a1133ffe61c19a5868aaf9535a3"
+  },
+  {
+    "path": "server/precise_recognition/BUNDLE_README.md",
+    "sha256": "3a7f90310c47ccf2e2b21e521398ce109416f728cb760b796d38b3a1ef31eaec"
+  },
+  {
+    "path": "server/precise_recognition/DEPLOYMENT.en.md",
+    "sha256": "8060999b78eaa0205fc50936723e4ae3eeebf9c2fad509fa8364acec427829b4"
+  },
+  {
+    "path": "server/precise_recognition/DEPLOYMENT.md",
+    "sha256": "4051127218f74bd1a5b635431afd509986da22849f129a10bb3862d5a2a72d74"
+  },
+  {
+    "path": "server/precise_recognition/README.en.md",
+    "sha256": "d53e7197cc7de4cc60b05543651ef41f4161dfd070a14fa68a7522d3a11535ce"
+  },
+  {
+    "path": "server/precise_recognition/README.md",
+    "sha256": "479a9fda2a1a8694737d869aa63a9ac1432921041acf809aa4aa44827045cb89"
+  },
+  {
+    "path": "server/precise_recognition/app/__init__.py",
+    "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+  },
+  {
+    "path": "server/precise_recognition/app/audio_utils.py",
+    "sha256": "6ef9d2554ed9a58549e221bdb93be64791cf806a9feeff603d7e0969ad59fe38"
+  },
+  {
+    "path": "server/precise_recognition/app/birdnet_service.py",
+    "sha256": "7e798dd7886b0584d233b72d19df33edae86f44826f643c803e564d5e395c73c"
+  },
+  {
+    "path": "server/precise_recognition/app/bundled_models.py",
+    "sha256": "f95496379081f03563f6fc48c97989c3f6e3e7f189cd3c3c0c78ec806b0a5ec7"
+  },
+  {
+    "path": "server/precise_recognition/app/config.py",
+    "sha256": "770cf0aff14df50166718f56deeea2d38e0967795874ec5f36858c71dbcf85af"
+  },
+  {
+    "path": "server/precise_recognition/app/geo_model_v3.py",
+    "sha256": "918927fa42fd4738043631d70c00daa4603ffe8dc7e6145c8b64a00c862da804"
+  },
+  {
+    "path": "server/precise_recognition/app/main.py",
+    "sha256": "203f0304381fba2384ab381ba8332cfdb065db1b1c70e590f111016dbd1a1a61"
+  },
+  {
+    "path": "server/precise_recognition/app/perch_loader.py",
+    "sha256": "a2da65dfe52e5985d56882322fd4f7855dd55c66c2811d5d5db42454f3ff1236"
+  },
+  {
+    "path": "server/precise_recognition/app/schemas.py",
+    "sha256": "d3d72f103509b54971f0869034cecc5aa19cf46768075baad49fdba269f96edc"
+  },
+  {
+    "path": "server/precise_recognition/app/smart_chunker.py",
+    "sha256": "6bddc230ce1616f78ba9a77552b48a96fe4b6335e0cd96099e5e73e7243750e9"
+  },
+  {
+    "path": "server/precise_recognition/requirements.lock.txt",
+    "sha256": "0f65f2a55fb099026f61136983bce76221d5704cc5f8815e5da5890e62d250cb"
+  },
+  {
+    "path": "server/precise_recognition/requirements.txt",
+    "sha256": "bfc0d43cb516bed2a66558ad025bd5c7b62e037d5d79487e2cc10810c81b00b5"
+  },
+  {
+    "path": "server/precise_recognition/scripts/recognize_audio_file.py",
+    "sha256": "74d452b2f0aefdc7ec44e53328403e3f07088b945a861a5beb975c3967dcdd4c"
+  },
+  {
+    "path": "server/precise_recognition/scripts/smoke_test.py",
+    "sha256": "86bb67d58923883d168aa9be3faf973df4e10afbd129fa629b5bc3a540b5ea2f"
+  },
+  {
+    "path": "server/precise_recognition/scripts/start_bundle.py",
+    "sha256": "a4028c0accc5f5317cd869a175013cccdc39ab6fa75164a732680c97e251c2e1"
+  },
+  {
+    "path": "server/precise_recognition/scripts/verify_bundle.py",
+    "sha256": "7bbda7742d4deafd2689563404272bad5df354d3e2f893e4346f585b2cf8c4e9"
+  },
+  {
+    "path": "server/precise_recognition/tests/test_bundled_models.py",
+    "sha256": "441d41ef41b680a78d6646232f2a0759a7dda018187b4bd847966f74c5ac8ead"
+  },
+  {
+    "path": "settings.gradle.kts",
+    "sha256": "926a4eafbe6e939d553a5c051b43e2f5383979514d017e0d828ca2908c2eb537"
+  },
+  {
+    "path": "tools/release/archive_apk.py",
+    "sha256": "14f4f750c6556f58db7b21c57e3ebeead9fb76b4271572e87e9da4a676ce6f7e"
+  },
+  {
+    "path": "tools/release/bundle_backend.py",
+    "sha256": "5796fbfa68b1e77b3ef3e59f1eda73be2b649983ac18708977e6c5cdead85462"
+  },
+  {
+    "path": "tools/release/collect_previews.py",
+    "sha256": "c227ddb784b9e159aa1835064a314566948c0c2bc0007163a21cd20343d4f1b7"
+  },
+  {
+    "path": "tools/release/lock_backend.py",
+    "sha256": "f378ea079a5b9f53c2b637054ec6ef93c80d8d7b629bb3358f1515d98ec9a6fc"
+  },
+  {
+    "path": "tools/release/prepare_backend_models.py",
+    "sha256": "a5f3b88117859dfe49f6a2d6d9dabe1b40bbf226d0fa97d9dd3e81e626cd7ad8"
+  },
+  {
+    "path": "tools/release/prepare_resources.py",
+    "sha256": "56208d4eb0f58edc593c0c89cf5f84517f30cdd3326f27cce24d32dc7d40562a"
+  },
+  {
+    "path": "tools/release/scan_release.py",
+    "sha256": "a7fb511213ae45e079cabfd0f1a8d6eca3a82ff6aa3dc0c654a56d822eb850a7"
+  },
+  {
+    "path": "tools/release/sign_release.py",
+    "sha256": "81187d2690b249212955635c591720bd0d5b44b132e6d8f4ed31d8109d130216"
+  },
+  {
+    "path": "tools/release/source_snapshot.py",
+    "sha256": "781149036c8bb7f38599b55c9c25601c9391ff44702859266c474a14f8d06e09"
+  },
+  {
+    "path": "tools/release/stage_app_resources.py",
+    "sha256": "a655dcd36d06fc50eb4fb36c947849fcadbcc94e40db562a212460b844d11c51"
+  },
+  {
+    "path": "tools/release/test_archive_apk.py",
+    "sha256": "f5f2d8f29ee9d184f5b25a24aa45bfdd1181bc6e732ac851f7c5a2befa2acdf7"
+  },
+  {
+    "path": "tools/release/test_bundle_backend.py",
+    "sha256": "2669352892b3dcc12bce88ec1876523237beedc7c35d29db4d60849a3bb1dd1d"
+  },
+  {
+    "path": "tools/release/test_source_snapshot.py",
+    "sha256": "d601179cbd3331593a554644eb68cce06bc0dc1a30b58d1fe2875c8383aca784"
+  },
+  {
+    "path": "tools/release/verify_migration.py",
+    "sha256": "6489e9bd36e472923cb311648aa0aeaf0198f52030c45f8e91b00a2afc8e5eb1"
+  },
+  {
+    "path": "version.properties",
+    "sha256": "1f389fb676e2f69596daa00abd855c1ad6374fc13db304bc2cceb30199f47b69"
+  }
+]

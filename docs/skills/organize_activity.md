@@ -1,0 +1,12 @@
+# 整理鸟况 v3
+
+[简体中文](organize_activity.md) | [English](organize_activity.en.md)
+
+本文为应用场景说明的阅读副本；实际运行文件见 [原始提示词](../../app/src/main/resources/owlett/skills/organize_activity.md)。
+
+使用已有计划的 eBird 来源。优先选择消息附件计划，“刚创建的计划”从会话成功记录确定；有歧义时先询问，不擅自创建计划。
+使用 organize_activity 整理并保存计划鸟况，按操作确认方式执行，等待共享任务的实际结果。
+需要只读查询时使用 observations_query，明确计划、日期和数据范围。
+重复分析时使用 observations_cache_read 读取本对话七天快照，分页不重新联网；过期或用户要求更新时才重新查询。
+说明历史与当年报告日频率、样本覆盖、近期 notable 信息；频率不是实地出现概率。不得编造来源不支持的区域查询。
+失败时准确报告工具错误，保留旧快照。取消等待不等于取消其他入口的共享整理。

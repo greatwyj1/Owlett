@@ -1,0 +1,9 @@
+<resources>
+    <string name="chat_jump_bottom">回到最新消息</string>
+    <string name="chat_menu">对话列表</string>
+    <string name="chat_new">新建对话</string>
+    <string name="chat_send">发送</string>
+    <string name="chat_retry">重试</string>
+    <string name="chat_diagnostics_show">查看诊断信息</string>
+    <string name="chat_diagnostics_hide">收起诊断信息</string>
+</resources>

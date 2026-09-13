@@ -1,0 +1,165 @@
+{
+  "version": "1.0.0",
+  "files": [
+    {
+      "path": "perch/._.",
+      "version": "google/bird-vocalization-classifier/tensorFlow2/perch_v2_cpu/1",
+      "license": "Apache-2.0",
+      "source": "https://www.kaggle.com/models/google/bird-vocalization-classifier/tensorFlow2/perch_v2_cpu/1",
+      "bytes": 276,
+      "sha256": "b9807cd5f0316449e53175969f8e42160234bb9ef1e4b77356bc4ee0d672f3cd"
+    },
+    {
+      "path": "perch/._assets",
+      "version": "google/bird-vocalization-classifier/tensorFlow2/perch_v2_cpu/1",
+      "license": "Apache-2.0",
+      "source": "https://www.kaggle.com/models/google/bird-vocalization-classifier/tensorFlow2/perch_v2_cpu/1",
+      "bytes": 176,
+      "sha256": "ecaba10d54e5f899997c1ce1a78bf3a600dcb42d61970beb2d263f7a790ec6cb"
+    },
+    {
+      "path": "perch/._fingerprint.pb",
+      "version": "google/bird-vocalization-classifier/tensorFlow2/perch_v2_cpu/1",
+      "license": "Apache-2.0",
+      "source": "https://www.kaggle.com/models/google/bird-vocalization-classifier/tensorFlow2/perch_v2_cpu/1",
+      "bytes": 176,
+      "sha256": "ecaba10d54e5f899997c1ce1a78bf3a600dcb42d61970beb2d263f7a790ec6cb"
+    },
+    {
+      "path": "perch/._saved_model.pb",
+      "version": "google/bird-vocalization-classifier/tensorFlow2/perch_v2_cpu/1",
+      "license": "Apache-2.0",
+      "source": "https://www.kaggle.com/models/google/bird-vocalization-classifier/tensorFlow2/perch_v2_cpu/1",
+      "bytes": 176,
+      "sha256": "ecaba10d54e5f899997c1ce1a78bf3a600dcb42d61970beb2d263f7a790ec6cb"
+    },
+    {
+      "path": "perch/._variables",
+      "version": "google/bird-vocalization-classifier/tensorFlow2/perch_v2_cpu/1",
+      "license": "Apache-2.0",
+      "source": "https://www.kaggle.com/models/google/bird-vocalization-classifier/tensorFlow2/perch_v2_cpu/1",
+      "bytes": 176,
+      "sha256": "ecaba10d54e5f899997c1ce1a78bf3a600dcb42d61970beb2d263f7a790ec6cb"
+    },
+    {
+      "path": "perch/assets/._labels.csv",
+      "version": "google/bird-vocalization-classifier/tensorFlow2/perch_v2_cpu/1",
+      "license": "Apache-2.0",
+      "source": "https://www.kaggle.com/models/google/bird-vocalization-classifier/tensorFlow2/perch_v2_cpu/1",
+      "bytes": 176,
+      "sha256": "662ba1e7a50a860ca3e3c374dff1c9c42f0217c6c3182cb94051b6f0506fdd31"
+    },
+    {
+      "path": "perch/assets/._perch_v2_ebird_classes.csv",
+      "version": "google/bird-vocalization-classifier/tensorFlow2/perch_v2_cpu/1",
+      "license": "Apache-2.0",
+      "source": "https://www.kaggle.com/models/google/bird-vocalization-classifier/tensorFlow2/perch_v2_cpu/1",
+      "bytes": 176,
+      "sha256": "662ba1e7a50a860ca3e3c374dff1c9c42f0217c6c3182cb94051b6f0506fdd31"
+    },
+    {
+      "path": "perch/assets/labels.csv",
+      "version": "google/bird-vocalization-classifier/tensorFlow2/perch_v2_cpu/1",
+      "license": "Apache-2.0",
+      "source": "https://www.kaggle.com/models/google/bird-vocalization-classifier/tensorFlow2/perch_v2_cpu/1",
+      "bytes": 312716,
+      "sha256": "e4d5c0397d8fb08bf90c6b13a34810af53504faad927e472fcc567793c9de057"
+    },
+    {
+      "path": "perch/assets/perch_v2_ebird_classes.csv",
+      "version": "google/bird-vocalization-classifier/tensorFlow2/perch_v2_cpu/1",
+      "license": "Apache-2.0",
+      "source": "https://www.kaggle.com/models/google/bird-vocalization-classifier/tensorFlow2/perch_v2_cpu/1",
+      "bytes": 147890,
+      "sha256": "861aef71b679d8dcf07c0c71375188c46b680bd808c61a539f254dc21319bcc9"
+    },
+    {
+      "path": "perch/fingerprint.pb",
+      "version": "google/bird-vocalization-classifier/tensorFlow2/perch_v2_cpu/1",
+      "license": "Apache-2.0",
+      "source": "https://www.kaggle.com/models/google/bird-vocalization-classifier/tensorFlow2/perch_v2_cpu/1",
+      "bytes": 97,
+      "sha256": "fbcdc32dd9097dcfb4dc18dc8c0bcb90f4cb0114711349f9d291f20ca0574ea3"
+    },
+    {
+      "path": "perch/saved_model.pb",
+      "version": "google/bird-vocalization-classifier/tensorFlow2/perch_v2_cpu/1",
+      "license": "Apache-2.0",
+      "source": "https://www.kaggle.com/models/google/bird-vocalization-classifier/tensorFlow2/perch_v2_cpu/1",
+      "bytes": 2701737,
+      "sha256": "1301ce8cef8ff4625f9447d9849d880f0dfa5fa9e41c13ec3274a4b0084c7f17"
+    },
+    {
+      "path": "perch/variables/._variables.data-00000-of-00001",
+      "version": "google/bird-vocalization-classifier/tensorFlow2/perch_v2_cpu/1",
+      "license": "Apache-2.0",
+      "source": "https://www.kaggle.com/models/google/bird-vocalization-classifier/tensorFlow2/perch_v2_cpu/1",
+      "bytes": 176,
+      "sha256": "ecaba10d54e5f899997c1ce1a78bf3a600dcb42d61970beb2d263f7a790ec6cb"
+    },
+    {
+      "path": "perch/variables/._variables.index",
+      "version": "google/bird-vocalization-classifier/tensorFlow2/perch_v2_cpu/1",
+      "license": "Apache-2.0",
+      "source": "https://www.kaggle.com/models/google/bird-vocalization-classifier/tensorFlow2/perch_v2_cpu/1",
+      "bytes": 176,
+      "sha256": "ecaba10d54e5f899997c1ce1a78bf3a600dcb42d61970beb2d263f7a790ec6cb"
+    },
+    {
+      "path": "perch/variables/variables.data-00000-of-00001",
+      "version": "google/bird-vocalization-classifier/tensorFlow2/perch_v2_cpu/1",
+      "license": "Apache-2.0",
+      "source": "https://www.kaggle.com/models/google/bird-vocalization-classifier/tensorFlow2/perch_v2_cpu/1",
+      "bytes": 407104092,
+      "sha256": "69571ece6a9229bd339af37f935821b9e3f53869298bd9ad97135a0c87efcea1"
+    },
+    {
+      "path": "perch/variables/variables.index",
+      "version": "google/bird-vocalization-classifier/tensorFlow2/perch_v2_cpu/1",
+      "license": "Apache-2.0",
+      "source": "https://www.kaggle.com/models/google/bird-vocalization-classifier/tensorFlow2/perch_v2_cpu/1",
+      "bytes": 9236,
+      "sha256": "29c49db4f95727b8c4c22522cf8bb8c77e2eb930ce5b5b43e3a00317d479da1d"
+    },
+    {
+      "path": "geomodel/BirdNET+_Geomodel_V3.0.2_Global_12K_FP16.onnx",
+      "version": "892c1958a00d53d5073217ca4cbfb5c32499d4c7",
+      "license": "See upstream model card; redistribution review required",
+      "source": "https://huggingface.co/tphakala/BirdNET-Geomodel/tree/892c1958a00d53d5073217ca4cbfb5c32499d4c7",
+      "bytes": 7483473,
+      "sha256": "2bc5a9b1e7c24115730015a97dbb688e9e8cd49c02c34a011439182c65ef0017"
+    },
+    {
+      "path": "geomodel/geomodel_v3.0.2_labels.txt",
+      "version": "892c1958a00d53d5073217ca4cbfb5c32499d4c7",
+      "license": "See upstream model card; redistribution review required",
+      "source": "https://huggingface.co/tphakala/BirdNET-Geomodel/tree/892c1958a00d53d5073217ca4cbfb5c32499d4c7",
+      "bytes": 479350,
+      "sha256": "92cdca7ca95beb7ed16a0a39f4010fa9a8b468b854b6e8083f732647f136ee1c"
+    },
+    {
+      "path": "birdnetlib/BirdNET_GLOBAL_6K_V2.4_Labels.txt",
+      "version": "birdnetlib-0.18.1/BirdNET-2.4",
+      "license": "CC-BY-NC-SA-4.0",
+      "source": "https://github.com/birdnet-team/BirdNET-Analyzer",
+      "bytes": 259740,
+      "sha256": "b50b77b7c3dfe40cd637e8cccdca0173a0a4ddee8867b830ff3c1a566f477f16"
+    },
+    {
+      "path": "birdnetlib/BirdNET_GLOBAL_6K_V2.4_MData_Model_V2_FP16.tflite",
+      "version": "birdnetlib-0.18.1/BirdNET-2.4",
+      "license": "CC-BY-NC-SA-4.0",
+      "source": "https://github.com/birdnet-team/BirdNET-Analyzer",
+      "bytes": 14770468,
+      "sha256": "1226f23fc20362617deb09178f366111b70cf085c2c82893f2814e5acedce6c2"
+    },
+    {
+      "path": "birdnetlib/BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite",
+      "version": "birdnetlib-0.18.1/BirdNET-2.4",
+      "license": "CC-BY-NC-SA-4.0",
+      "source": "https://github.com/birdnet-team/BirdNET-Analyzer",
+      "bytes": 51726412,
+      "sha256": "55f3e4055b1a13bfa9a2452731d0d34f6a02d6b775a334362665892794165e4c"
+    }
+  ]
+}
